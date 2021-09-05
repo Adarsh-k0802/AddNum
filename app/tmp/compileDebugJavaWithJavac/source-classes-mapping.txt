@@ -1,0 +1,5 @@
+com/example/addnum/BuildConfig.java
+ com.example.addnum.BuildConfig
+com/example/addnum/MainActivity.java
+ com.example.addnum.MainActivity
+ com.example.addnum.MainActivity$1
